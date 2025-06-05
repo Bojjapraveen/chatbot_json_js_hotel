@@ -1,0 +1,1504 @@
+{
+    "guest_services": {
+        "4001": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Early Check-in",
+            "Price": "500",
+            "Availability": "Allowed (2hrs)",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "yes"
+        },
+        "4002": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Late Check-out",
+            "Price": "700",
+            "Availability": "Allowed (2hrs)",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4003": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Extra Pillows, Room Decoration, Romantic Dinner Setup",
+            "Price": "200",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4004": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Room Upgrade",
+            "Price": "1500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4005": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Airport Transfer",
+            "Price": "1000",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4006": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Pet Stay",
+            "Price": "2000",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4007": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Additional Guest",
+            "Price": "1000",
+            "Availability": "Allowed (Max 2 Extra Guests)",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4008": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Meal Plan Upgrade",
+            "Price": "1200",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "yes"
+        },
+        "4009": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Early Breakfast",
+            "Price": "300",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4010": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Late Dinner",
+            "Price": "400",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4011": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Special Occasion Setup",
+            "Price": "2500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4012": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Room Cleaning",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4013": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Extra Towels",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4014": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Mini Bar Restock",
+            "Price": "500",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4015": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Wake-up Call",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "yes"
+        },
+        "4016": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Room Service",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "yes"
+        },
+        "4017": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Concierge Service",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4018": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Lost & Found Assistance",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4019": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Luggage Assistance",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4020": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Personal Butler Service",
+            "Price": "5000",
+            "Availability": "Available",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "yes"
+        },
+        "4021": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Private Dining",
+            "Price": "2500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4022": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Daily Newspaper Delivery",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4023": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Event Booking Assistance",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4024": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Spa Reservation",
+            "Price": "2000",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "yes"
+        },
+        "4025": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Gym Access",
+            "Price": "500",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4026": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Premium Wi-Fi Upgrade",
+            "Price": "300",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4027": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Exclusive Lounge Access",
+            "Price": "1500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4028": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Business Meeting Setup",
+            "Price": "3000",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        },
+        "4029": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Baggage Handling",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4030": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Private Cab Booking",
+            "Price": "1500",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4031": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Express Laundry",
+            "Price": "800",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "yes"
+        },
+        "4032": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Personal Butler Service",
+            "Price": "5000",
+            "Availability": "Available",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "yes"
+        },
+        "4033": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Business Meeting Setup",
+            "Price": "2500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4034": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Birthday Cake Arrangement",
+            "Price": "1200",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "yes"
+        },
+        "4035": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Conference Room Reservation",
+            "Price": "3500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4036": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Medical Assistance",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "yes"
+        },
+        "4037": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Babysitting Service",
+            "Price": "2000",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "yes"
+        },
+        "4038": {
+            "Type": "Hotel",
+            "Category": "GuestServices",
+            "Item_Name": "Premium WiFi Access",
+            "Price": "300",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "yes"
+        }
+    },
+    "restaurant_menu": {
+        "1001": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Masala Dosa",
+            "Price": 180,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "1002": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Idli with Sambar",
+            "Price": 150,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "1003": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Pongal",
+            "Price": 160,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "1004": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Vada",
+            "Price": 140,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "1005": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Upma",
+            "Price": 130,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.4,
+            "Booking_Required": "No"
+        },
+        "1006": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Poori & Potato Masala",
+            "Price": 170,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "1007": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Aloo Paratha",
+            "Price": 190,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "1008": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Bread Omelette",
+            "Price": 150,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "1009": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Vermicelli Upma",
+            "Price": 140,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.4,
+            "Booking_Required": "No"
+        },
+        "1010": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Kharabath",
+            "Price": 160,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "1011": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Bisibele Bath",
+            "Price": 180,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "1012": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Ghee Roast Dosa",
+            "Price": 200,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "1013": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Rava Dosa",
+            "Price": 180,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "1014": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Neer Dosa",
+            "Price": 170,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "1015": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Akki Roti",
+            "Price": 150,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "1016": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Methi Thepla",
+            "Price": 160,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "1017": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Chapati & Dal",
+            "Price": 140,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.4,
+            "Booking_Required": "No"
+        },
+        "1018": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Cheese Toast",
+            "Price": 180,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "1019": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Fruit Salad",
+            "Price": 200,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "1020": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Cornflakes with Milk",
+            "Price": 170,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "1021": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Oats Porridge",
+            "Price": 160,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "1022": {
+            "Type": "Restaurant",
+            "Category": "Breakfast",
+            "Item_Name": "Peanut Butter Toast",
+            "Price": 150,
+            "Availability": "7 AM - 10 AM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "2001": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Paneer Butter Masala",
+            "Price": 300,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2002": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Dal Tadka",
+            "Price": 250,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2003": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Jeera Rice",
+            "Price": 220,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2004": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Vegetable Biryani",
+            "Price": 280,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2005": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Butter Naan",
+            "Price": 100,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "2006": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Chole Masala",
+            "Price": 270,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2007": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Stuffed Paratha",
+            "Price": 240,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2008": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Palak Paneer",
+            "Price": 290,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2009": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Mixed Veg Curry",
+            "Price": 260,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2010": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Gobi Manchurian",
+            "Price": 280,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2011": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Rajma Chawal",
+            "Price": 250,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2012": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Schezwan Fried Rice",
+            "Price": 290,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2013": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Vegetable Hakka Noodles",
+            "Price": 270,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2014": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Matar Pulao",
+            "Price": 260,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2015": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Kadai Paneer",
+            "Price": 300,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "2016": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Tomato Soup",
+            "Price": 180,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2017": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Sambar Rice",
+            "Price": 230,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2018": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Lemon Rice",
+            "Price": 220,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "2019": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Hyderabadi Dum Biryani",
+            "Price": 320,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "2020": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Grilled Paneer Sandwich",
+            "Price": 260,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2021": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Pav Bhaji",
+            "Price": 280,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2022": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Dhokla with Green Chutney",
+            "Price": 250,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2023": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Baingan Bharta",
+            "Price": 260,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2024": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Dal Makhani",
+            "Price": 310,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "2025": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Bhindi Masala",
+            "Price": 270,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2026": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Ghee Rice",
+            "Price": 230,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2027": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Vegetable Korma",
+            "Price": 280,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2028": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Tandoori Roti",
+            "Price": 90,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2029": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Methi Malai Paneer",
+            "Price": 320,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "2030": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Curd Rice",
+            "Price": 200,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "2031": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Kadhi Pakora",
+            "Price": 250,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2032": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Aloo Gobi",
+            "Price": 240,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2033": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Tamarind Rice",
+            "Price": 230,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "2034": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Khichdi",
+            "Price": 220,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "2035": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Mushroom Masala",
+            "Price": 280,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2036": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Masala Pulao",
+            "Price": 260,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2037": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Gujarati Undhiyu",
+            "Price": 290,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "2038": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Vegetable Stew with Appam",
+            "Price": 300,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "2039": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Bisi Bele Bath",
+            "Price": 270,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "2040": {
+            "Type": "Restaurant",
+            "Category": "Lunch",
+            "Item_Name": "Lauki Kofta",
+            "Price": 250,
+            "Availability": "12 PM - 3 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3001": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Butter Naan",
+            "Price": 80,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3002": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Kadai Paneer",
+            "Price": 320,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3003": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Dal Makhani",
+            "Price": 290,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3004": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Mushroom Masala",
+            "Price": 280,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3005": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Jeera Rice",
+            "Price": 200,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3006": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Tandoori Roti",
+            "Price": 100,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3007": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Palak Paneer",
+            "Price": 310,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3008": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Vegetable Biryani",
+            "Price": 330,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3009": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Stuffed Paratha",
+            "Price": 250,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3010": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Rajma Masala",
+            "Price": 270,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3011": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Lemon Rice",
+            "Price": 220,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "3012": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Schezwan Fried Rice",
+            "Price": 280,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3013": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Vegetable Hakka Noodles",
+            "Price": 260,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3014": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Matar Paneer",
+            "Price": 300,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3015": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Tomato Soup",
+            "Price": 180,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3016": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Vegetable Korma",
+            "Price": 290,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3017": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Masala Kulcha",
+            "Price": 140,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3018": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Hyderabadi Dum Biryani",
+            "Price": 350,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3019": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Baingan Bharta",
+            "Price": 250,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3020": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Dhokla",
+            "Price": 200,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3021": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Pav Bhaji",
+            "Price": 280,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3022": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Bisi Bele Bath",
+            "Price": 260,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3023": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Aloo Gobi",
+            "Price": 240,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3024": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Tamarind Rice",
+            "Price": 230,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "3025": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Khichdi",
+            "Price": 220,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3026": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Methi Malai Paneer",
+            "Price": 320,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3027": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Ghee Rice",
+            "Price": 210,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3028": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Mixed Vegetable Curry",
+            "Price": 280,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3029": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Lauki Kofta",
+            "Price": 250,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3030": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Gujarati Undhiyu",
+            "Price": 270,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3031": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Vegetable Stew with Appam",
+            "Price": 310,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3032": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Tandoori Paneer Tikka",
+            "Price": 340,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3033": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Chilli Paneer",
+            "Price": 300,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "No"
+        },
+        "3034": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Makai Ki Roti with Sarson Saag",
+            "Price": 290,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3035": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Kadhi Pakora",
+            "Price": 270,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3036": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Moong Dal Khichdi",
+            "Price": 240,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "3037": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Curd Rice",
+            "Price": 220,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "3038": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Malai Kofta",
+            "Price": 310,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "3039": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Paneer Bhurji",
+            "Price": 280,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "No"
+        },
+        "3040": {
+            "Type": "Restaurant",
+            "Category": "Dinner",
+            "Item_Name": "Hariyali Tikka",
+            "Price": 330,
+            "Availability": "7 PM - 11 PM",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        }
+    },
+    "additional_services": {
+        "5001": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Spa Treatment",
+            "Price": "1500",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "Yes"
+        },
+        "5002": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Airport Pickup",
+            "Price": "1200",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "Yes"
+        },
+        "5003": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Gym Access",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "5004": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Event Booking",
+            "Price": "Custom Pricing",
+            "Availability": "On Request",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "5005": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Personal Yoga Session",
+            "Price": "1800",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "Yes"
+        },
+        "5006": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Massage Therapy",
+            "Price": "2000",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "Yes"
+        },
+        "5007": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Chauffeur Service",
+            "Price": "2500",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "Yes"
+        },
+        "5008": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Car Rental",
+            "Price": "3000",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "Yes"
+        },
+        "5009": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Swimming Pool Access",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "No"
+        },
+        "5010": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Live Music Night",
+            "Price": "Custom Pricing",
+            "Availability": "On Request",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "5011": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Trekking & Adventure Tour",
+            "Price": "3500",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "Yes"
+        },
+        "5012": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Private Dining Experience",
+            "Price": "4000",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "5013": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Photography Services",
+            "Price": "2000",
+            "Availability": "Available",
+            "Customer_Rating": 4.5,
+            "Booking_Required": "Yes"
+        },
+        "5014": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Business Conference Setup",
+            "Price": "5000",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "5015": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "High-Speed WiFi",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.6,
+            "Booking_Required": "No"
+        },
+        "5016": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Personalized Concierge Service",
+            "Price": "Custom Pricing",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "Yes"
+        },
+        "5017": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Kid's Play Area Access",
+            "Price": "Free",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "No"
+        },
+        "5018": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Pet Care Service",
+            "Price": "2500",
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "5019": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Cultural Tour Guide",
+            "Price": "2800",
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "Yes"
+        },
+        "5020": {
+            "Type": "Hotel",
+            "Category": "Additional services",
+            "Item_Name": "Private Movie Screening",
+            "Price": "3500",
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "Yes"
+        }
+    },
+    "room_types": {
+        "6001": {
+            "Type": "Hotel",
+            "Category": "Room",
+            "Item_Name": "Standard",
+            "Price": 1800,
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "Yes"
+        },
+        "6002": {
+            "Type": "Hotel",
+            "Category": "Room",
+            "Item_Name": "Deluxe",
+            "Price": 2500,
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "6003": {
+            "Type": "Hotel",
+            "Category": "Room",
+            "Item_Name": "Suit",
+            "Price": 3500,
+            "Availability": "Available",
+            "Customer_Rating": 4.9,
+            "Booking_Required": "Yes"
+        },
+        "6004": {
+            "Type": "Hotel",
+            "Category": "Room",
+            "Item_Name": "DeluxeSuit",
+            "Price": 5000,
+            "Availability": "Available",
+            "Customer_Rating": 4.8,
+            "Booking_Required": "Yes"
+        },
+        "6005": {
+            "Type": "Hotel",
+            "Category": "Room",
+            "Item_Name": "PartyHall",
+            "Price": 30000,
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "Yes"
+        },
+        "6006": {
+            "Type": "Hotel",
+            "Category": "Room",
+            "Item_Name": "PartyareaOpenTop",
+            "Price": 50000,
+            "Availability": "Available",
+            "Customer_Rating": 4.7,
+            "Booking_Required": "Yes"
+        }
+    }
+}

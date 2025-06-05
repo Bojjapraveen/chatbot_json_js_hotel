@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Chatbot</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="chatbot.js" defer></script>
+</head>
+<body>
+    <h2>Hotel Chatbot</h2>
+
+    <!-- Dropdown for selecting a category -->
+    <label for="category">Select a Category:</label>
+    <select id="category">
+        <option value="guest_services">Guest Services</option>
+        <option value="restaurant_menu">Restaurant Menu</option>
+        <option value="additional_services">Additional Services</option>
+        <option value="room_types">Room Type</option>
+    </select>
+
+    <!-- Text Input for Item Name -->
+    <label for="item_name">Enter Item Name:</label>
+    <input type="text" id="item_name" list="searchHistory" placeholder="Enter item name">
+    <datalist id="searchHistory"></datalist>
+    <button onclick="askChatbot()">Ask Chatbot</button>
+    <p id="response"></p>
+</body>
+</html>
