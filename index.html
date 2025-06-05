@@ -8,22 +8,33 @@
     <script src="chatbot.js" defer></script>
 </head>
 <body>
-    <h2>Hotel Chatbot</h2>
+    <div class="chatbot-container">
+        <h2>Hotel Chatbot</h2>
 
-    <!-- Dropdown for selecting a category -->
-    <label for="category">Select a Category:</label>
-    <select id="category">
-        <option value="guest_services">Guest Services</option>
-        <option value="restaurant_menu">Restaurant Menu</option>
-        <option value="additional_services">Additional Services</option>
-        <option value="room_types">Room Type</option>
-    </select>
+        <div class="category-selection">
+            <label for="category">Select a Category:</label>
+            <select id="category">
+                <option value="Select_services">Select Services</option>
+                <option value="guest_services">Guest Services</option>
+                <option value="restaurant_menu">Restaurant Menu</option>
+                <option value="additional_services">Additional Services</option>
+                <option value="room_types">Room Type</option>
+            </select>
+        </div>
 
-    <!-- Text Input for Item Name -->
-    <label for="item_name">Enter Item Name:</label>
-    <input type="text" id="item_name" list="searchHistory" placeholder="Enter item name">
-    <datalist id="searchHistory"></datalist>
-    <button onclick="askChatbot()">Ask Chatbot</button>
-    <p id="response"></p>
+        <div class="item-input">
+            <label for="item_name">Enter Item Name:</label>
+            <input type="text" id="item_name" list="searchHistory" placeholder="Enter item name">
+            <datalist id="searchHistory"></datalist>
+        </div>
+
+        <div class="chatbot-actions">
+            <button onclick="askChatbot()">Ask Chatbot</button>
+        </div>
+
+        <div class="chatbot-response">
+            <p id="response"></p>
+        </div>
+    </div>
 </body>
 </html>

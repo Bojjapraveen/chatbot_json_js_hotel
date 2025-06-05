@@ -12,7 +12,10 @@ app.get("/chatbot", (req, res) => {
     const categoryData = data[category.toLowerCase()] || {};
     const result = Object.values(categoryData).find(item => item.Item_Name.toLowerCase() === item_name.toLowerCase());
 
-    res.json(result ? { response: `The price of ${result.Item_Name} is Rs ${result.Price}. It is available from ${result.Availability}.` } : { response: "Item not found!" });
+    res.json(result ? 
+    { response: `The price of ${result.Item_Name} is Rs ${result.Price}. It is currently available ${result.Availability}. Customer rating: ${result.Customer_Rating}/5. Booking required: ${result.Booking_Required}.` } 
+    : { response: "Item not found!" }
+    );
 
 });
 
